@@ -3,6 +3,7 @@
     "clsx",
     "heroicons",
     "Lusitana",
-    "sidenav"
+    "sidenav",
+    "tailwindcss"
   ]
 }
