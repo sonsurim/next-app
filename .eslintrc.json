@@ -1,3 +1,8 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "@spark-dist/next",
+  "rules": {
+    "no-console": "off",
+    "no-unreachable": "off",
+    "consistent-return": "off"
+  }
 }

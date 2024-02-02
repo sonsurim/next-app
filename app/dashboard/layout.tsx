@@ -1,5 +1,5 @@
+import type { ReactNode } from 'react'
 import SideNav from '@/app/ui/dashboard/sidenav'
-import { ReactNode } from 'react';
 
 export default function Layout({ children }: { children: ReactNode }) {
   return (
